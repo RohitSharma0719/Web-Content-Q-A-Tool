@@ -28,4 +28,8 @@ pip install streamlit requests beautifulsoup4 langchain_huggingface faiss-cpu ct
 
 Run the code
 streamlit run app.py
-The app will open in your browser at http://localhost:8501 🎉
+The app will open in your browser at http://localhost:8501 
+
+
+<img width="1426" alt="image" src="https://github.com/user-attachments/assets/45fc7a6b-7e2f-44a4-810c-aba638f8b0b5" />
+
